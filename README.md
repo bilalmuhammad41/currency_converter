@@ -2,7 +2,7 @@
 
 ![image](https://github.com/bilalmuhammad41/currency_converter/assets/122988632/5872e951-c746-472b-9886-db19c61b0c60)
 
-
+This app is live at: https://bilalmuhammad41.github.io/currency_converter/
 This Currency Converter App is a web application built with React, Tailwind CSS, and JavaScript. It was developed as a learning project to gain hands-on experience with these technologies and to demonstrate currency conversion with real-time exchange rates.
 
 ## Features
