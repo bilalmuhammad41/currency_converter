@@ -1,4 +1,5 @@
- import './index.css'
+import React from 'react';
+import './index.css'
 import Home from './sections/home'
 
 
